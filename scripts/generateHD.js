@@ -1,8 +1,11 @@
 
 
+
 const Web3 = require('web3')
 
-const rpcURL = "https://mainnet.infura.io/v3/5ab3f81db0264cacbce127652bb32a07"
+require("dotenv").config();
+
+const rpcURL = "https://mainnet.infura.io/v3/"+process.env.INFURA_KEY
 
 const web3 = new Web3(rpcURL)
 
