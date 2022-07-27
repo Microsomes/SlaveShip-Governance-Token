@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# Goverance Token for the Slave Ship platform
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project aims to become the most user friendly and freeing Bitcoin + Altcoin wallet.
+We aim to support most of the popular and not so popular chains
 
 Try running some of the following tasks:
 
